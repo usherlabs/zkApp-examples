@@ -45,5 +45,9 @@
   },
   "peerDependencies": {
     "snarkyjs": "^0.8.0"
+  },
+  "dependencies": {
+    "o1js": "^0.13.0",
+    "tslog": "^4.9.2"
   }
 }
